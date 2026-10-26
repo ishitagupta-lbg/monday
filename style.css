@@ -1,0 +1,10 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+}
+body {
+    background-color:beige;
+    border: 2px solid crimson;
+    border-radius: 10px;
+    padding-left: 10px;
+}
